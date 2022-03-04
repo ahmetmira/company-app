@@ -55,6 +55,8 @@ Tomcat Server in Port 9090:
 Tomcat Web Application Manager:
 ![Tomcat Manager](https://i.ibb.co/rF15Tsx/Tomcat-Manager.png)
 
-Test GetAll/GetById:
+Test GetAll:
 ![GetAllProducts](https://i.ibb.co/kKQwcp6/Tomcat-Get-All-Products.png)
+
+Test GetById:
 ![GetById](https://i.ibb.co/tLHtpfq/Tomcat-Get-By-Id.png)
