@@ -63,3 +63,7 @@ Test GetAll:
 Test GetById:
 
 ![GetById](https://i.ibb.co/tLHtpfq/Tomcat-Get-By-Id.png)
+
+## Copyright
+
+Released under the Apache License 2.0. See the [LICENSE](https://github.com/ahmetmira/company-app/blob/main/LICENSE) file.
