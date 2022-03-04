@@ -39,6 +39,7 @@ Delete
 
 ## Postgresql Database
 Database Check
+
 ![enter image description here](https://i.ibb.co/ZNDCpGK/Postgresql-Database-Check.png)
 ## Deploy To Apache Tomcat
 After the package is selected as war, this command is typed into the terminal.
